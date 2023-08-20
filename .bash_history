@@ -46,3 +46,13 @@ ansible-playbook -i inventory.yml loops.yml
 ls
 cat var.yml 
 exit
+ls
+nano copy.yml
+ls
+git init
+git add .
+git commit -m "Add ansible files"
+git config --global user.name "Muhammad-Awab"
+git config --global user.email "muhammadawab82002@gmail.com"
+git remote add origin https://github.com/Muhammad-Awab/ansible.git
+git push -u origin master

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692523371,,"wq"
+|2,0,1692525280,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,38 +23,103 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	debian"
+|3,1,36,0,1,0,1692525243,"debian\""
 
 # File marks:
-'0  12  15  ~/loops.yml
-|4,48,12,15,1692523371,"~/loops.yml"
-'1  12  42  ~/handlers.yml
-|4,49,12,42,1692517672,"~/handlers.yml"
-'2  12  45  ~/handlers.yml
-|4,50,12,45,1692517610,"~/handlers.yml"
-'3  12  12  ~/handlers.yml
-|4,51,12,12,1692517554,"~/handlers.yml"
-'4  12  12  ~/handlers.yml
-|4,52,12,12,1692517554,"~/handlers.yml"
-'5  10  49  ~/var.yml
-|4,53,10,49,1692516805,"~/var.yml"
-'6  11  7  ~/task.yml
-|4,54,11,7,1692514544,"~/task.yml"
-'7  11  42  ~/task.yml
-|4,55,11,42,1692514427,"~/task.yml"
+'0  14  38  ~/condition.yml
+|4,48,14,38,1692525280,"~/condition.yml"
+'1  8  37  ~/condition.yml
+|4,49,8,37,1692525207,"~/condition.yml"
+'2  8  37  ~/condition.yml
+|4,50,8,37,1692525207,"~/condition.yml"
+'3  12  15  ~/loops.yml
+|4,51,12,15,1692523371,"~/loops.yml"
+'4  12  42  ~/handlers.yml
+|4,52,12,42,1692517672,"~/handlers.yml"
+'5  12  45  ~/handlers.yml
+|4,53,12,45,1692517610,"~/handlers.yml"
+'6  12  12  ~/handlers.yml
+|4,54,12,12,1692517554,"~/handlers.yml"
+'7  12  12  ~/handlers.yml
+|4,55,12,12,1692517554,"~/handlers.yml"
+'8  10  49  ~/var.yml
+|4,56,10,49,1692516805,"~/var.yml"
+'9  11  7  ~/task.yml
+|4,57,11,7,1692514544,"~/task.yml"
 
 # Jumplist (newest first):
+-'  14  38  ~/condition.yml
+|4,39,14,38,1692525280,"~/condition.yml"
+-'  8  37  ~/condition.yml
+|4,39,8,37,1692525239,"~/condition.yml"
+-'  8  37  ~/condition.yml
+|4,39,8,37,1692525207,"~/condition.yml"
+-'  1  0  ~/condition.yml
+|4,39,1,0,1692525020,"~/condition.yml"
+-'  1  0  ~/condition.yml
+|4,39,1,0,1692525020,"~/condition.yml"
 -'  12  15  ~/loops.yml
 |4,39,12,15,1692523371,"~/loops.yml"
+-'  12  15  ~/loops.yml
+|4,39,12,15,1692523371,"~/loops.yml"
+-'  12  15  ~/loops.yml
+|4,39,12,15,1692523371,"~/loops.yml"
+-'  12  15  ~/loops.yml
+|4,39,12,15,1692523371,"~/loops.yml"
+-'  1  0  ~/loops.yml
+|4,39,1,0,1692523156,"~/loops.yml"
+-'  1  0  ~/loops.yml
+|4,39,1,0,1692523156,"~/loops.yml"
+-'  1  0  ~/loops.yml
+|4,39,1,0,1692523156,"~/loops.yml"
 -'  1  0  ~/loops.yml
 |4,39,1,0,1692523156,"~/loops.yml"
 -'  12  42  ~/handlers.yml
 |4,39,12,42,1692517672,"~/handlers.yml"
 -'  12  42  ~/handlers.yml
 |4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
+-'  12  42  ~/handlers.yml
+|4,39,12,42,1692517672,"~/handlers.yml"
 -'  12  45  ~/handlers.yml
 |4,39,12,45,1692517610,"~/handlers.yml"
 -'  12  45  ~/handlers.yml
 |4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  45  ~/handlers.yml
+|4,39,12,45,1692517610,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
+-'  12  12  ~/handlers.yml
+|4,39,12,12,1692517554,"~/handlers.yml"
 -'  12  12  ~/handlers.yml
 |4,39,12,12,1692517554,"~/handlers.yml"
 -'  12  12  ~/handlers.yml
@@ -71,6 +136,42 @@
 |4,39,1,0,1692517369,"~/handlers.yml"
 -'  1  0  ~/handlers.yml
 |4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
+-'  1  0  ~/handlers.yml
+|4,39,1,0,1692517369,"~/handlers.yml"
 -'  10  49  ~/var.yml
 |4,39,10,49,1692516805,"~/var.yml"
 -'  10  49  ~/var.yml
@@ -103,148 +204,67 @@
 |4,39,10,49,1692516805,"~/var.yml"
 -'  10  49  ~/var.yml
 |4,39,10,49,1692516805,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  1  0  ~/var.yml
-|4,39,1,0,1692515010,"~/var.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  7  ~/task.yml
-|4,39,11,7,1692514544,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
--'  11  42  ~/task.yml
-|4,39,11,42,1692514427,"~/task.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
+-'  10  49  ~/var.yml
+|4,39,10,49,1692516805,"~/var.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/condition.yml
+	*	1692525280	0
+	"	14	38
+	^	14	39
+	.	14	39
+	+	8	38
+	+	14	41
+	+	8	37
+	+	10	35
+	+	12	0
+	+	10	40
+	+	14	39
 
 > ~/loops.yml
 	*	1692523370	0
